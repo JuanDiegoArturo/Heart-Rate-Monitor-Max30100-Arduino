@@ -36,7 +36,7 @@ The pulsometer detects heartbeats by measuring changes in light absorption cause
 
 #### Circuit Diagram
 
-![Connection Diagram - Second Prototype](images/connection_diagram_v2.jpg)
+![Connection Diagram - Second Prototype](Images/connection_diagram_v2.jpg)
 
 ## Software Features
 
@@ -49,12 +49,12 @@ The pulsometer detects heartbeats by measuring changes in light absorption cause
 
 #### OLED Screen Output
 
-![OLED Output](images/oled_output.jpg)
+![OLED Output](Images/oled_output.jpg)
 
 ### LabVIEW
 
 - Graphical interface to display live pulse signal
 
-![LabVIEW Reading](images/labview_reading.jpg)
+![LabVIEW Reading](Images/labview_reading.jpg)
 
 Lucas Calle, Juan Diego Arturo
